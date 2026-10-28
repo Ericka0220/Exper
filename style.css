@@ -1,0 +1,12 @@
+:root {
+  --black: #0b0908;
+  --black-soft: #15110f;
+  --orange: #e76b2f;
+  --orange-light: #ff9a5c;
+  --cream: #f2e8d9;
+  --muted: #a69b8e;
+  --border: rgba(242, 232, 217, 0.15);
+
+  --heading-font: "Cormorant Garamond", Georgia, serif;
+  --body-font: "Montserrat", Arial, sans-serif;
+}
